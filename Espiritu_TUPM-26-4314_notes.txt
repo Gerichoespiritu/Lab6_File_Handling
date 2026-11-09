@@ -1,0 +1,5 @@
+Student: Espiritu
+Student ID: TUPM-26-4314
+Seed digit: 4
+ID sum: 20
+Verification value: 164
